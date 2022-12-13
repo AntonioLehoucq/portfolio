@@ -8,6 +8,14 @@ background-color: #1e2124;
 background-color:#1e2124
 }
 
+h2 {
+color:red;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+font-family:Calibri;
+}
+
 h3 {
 color:white;
 margin-left: auto;
